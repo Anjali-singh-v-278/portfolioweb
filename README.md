@@ -1,16 +1,121 @@
-# React + Vite
+# 🌐 My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive, and animated developer portfolio built with React and Vite.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** https://anjali-singh-v-278.github.io/portfolioweb/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🎨 Modern UI/UX
+- ⚡ Smooth animations with Framer Motion
+- 📱 Fully Responsive
+- 🌙 Clean and Minimal Design
+- 🚀 Fast performance with Vite
+- 🎯 Interactive project showcase
+- 📬 Contact section
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- React Icons
+- Lenis (Smooth Scrolling)
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+│
+├── assets/
+├── components/
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/Anjali-singh-v-278/portfolioweb.git
+```
+
+Go to the project folder
+
+```bash
+cd portfolioweb
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 📦 Build
+
+```bash
+npm run build
+```
+
+---
+
+## 🌍 Deployment
+
+This portfolio is deployed using **GitHub Pages**.
+
+Deploy the latest version:
+
+```bash
+npm run deploy
+```
+
+---
+
+## 📸 Preview
+
+> Add screenshots of your portfolio here.
+
+Example:
+
+```
+images/
+├── home.png
+├── projects.png
+└── contact.png
+```
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/Anjali-singh-v-278
+
+LinkedIn: *Add your LinkedIn URL*
+
+Portfolio: https://anjali-singh-v-278.github.io/portfolioweb/
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
